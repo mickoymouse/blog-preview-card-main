@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FEM Solution - HTML & CSS foundations](https://your-solution-url.com)
-- Live Site URL: [FEM - HTML & CSS foundations](https://your-live-site-url.com)
+- Solution URL: [FEM Solution - HTML & CSS foundations](https://www.frontendmentor.io/solutions/html-and-css-foundation-HSUPmoP5cf)
+- Live Site URL: [FEM - HTML & CSS foundations](https://blog-preview-card-main-henna.vercel.app/)
 
 ## My process
 
