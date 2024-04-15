@@ -134,7 +134,7 @@ h6 {
 }
 
 .card-description {
-    font-size: var(--fs-body-s);
+    font-size: var(--fs-body);
     color: var(--clr-gray);
 }
 
