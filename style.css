@@ -65,7 +65,6 @@ h6 {
 .wrapper {
     display: flex;
     height: 100vh;
-    min-width: 375px;
     align-items: center;
     justify-content: center;
     padding: 1rem;
@@ -80,6 +79,7 @@ h6 {
     border: 1px solid var(--clr-black);
     border-radius: 1rem;
     box-shadow: 7px 7px 0 0 var(--clr-black);
+    min-width: 327px;
     max-width: 384px;
     cursor: pointer;
     transition: ease-in-out 0.2s;
@@ -96,6 +96,11 @@ h6 {
 .card-image {
     border-radius: 1rem;
     overflow: hidden;
+    
+    > img {
+        width: 100%;
+        height: auto;
+    }
 }
 
 .card-meta {
